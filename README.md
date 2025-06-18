@@ -35,8 +35,7 @@ With a strong background in **Salesforce architecture**, **data integration** (M
 ## 📸 My Urban Photography
 
 > "The city tells a story — I just frame the chapter."  
-> 🏙️ Check out my work on [Instagram](https://instagram.com/seu_ig_aqui) or [Portfolio](https://seuport.com.br)
-
+> 🏙️ Check out my work on [Instagram](https://instagram.com/otheogdai)
 ---
 
 ## 📈 GitHub Stats
@@ -47,8 +46,7 @@ With a strong background in **Salesforce architecture**, **data integration** (M
 
 ## 📬 Let’s Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/seu-perfil)
-- 🧠 [Trailhead](https://trailblazer.me/id/seuid)
+- 💼 [LinkedIn](https://linkedin.com/in/otheogdai)
 - ☕ Open to collaborations, tech talks, or a good coffee chat.
 
 ---
