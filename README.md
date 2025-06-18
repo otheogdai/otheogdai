@@ -10,7 +10,7 @@ I'm a curious mind and problem solver from 🇧🇷 Brazil, working at **Vibra E
 With a strong background in **Salesforce architecture**, **data integration** (MuleSoft, APIs), and **automation**, I help businesses grow through technology.
 
 💼 Currently diving deeper into the **Anypoint Platform**, working toward my **MuleSoft Certification**.  
-📸 When I’m not coding, I’m out capturing the essence of city life through **urban photography** – my "jobby" and passion.
+📸 When I’m not coding, I’m out capturing the essence of city life through **urban and landscape photography** – my "jobby" and passion.
 
 ---
 
