@@ -26,21 +26,10 @@ With a strong background in **Salesforce architecture**, **data integration** (M
 
 ## 🧠 Currently Learning
 
-- 🚀 MuleSoft Platform Deep Dive
+- 🚀 N8N
 - 🤖 AI & Automation in Salesforce
 - 📊 Advanced Data Analytics with Python
 
----
-
-## 📸 My Urban Photography
-
-> "The city tells a story — I just frame the chapter."  
-> 🏙️ Check out my work on [Instagram](https://instagram.com/otheogdai)
----
-
-## 📈 GitHub Stats
-
-![Theodoro's GitHub stats](https://github-readme-stats.vercel.app/api?username=otheogdai_icons=true&theme=radical)
 
 ---
 
