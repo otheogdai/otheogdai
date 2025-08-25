@@ -40,7 +40,7 @@ With a strong background in **Salesforce architecture**, **data integration** (M
 
 ## 📈 GitHub Stats
 
-![Theodoro's GitHub stats](https://github-readme-stats.vercel.app/api?username=seuUserNameAqui&show_icons=true&theme=radical)
+![Theodoro's GitHub stats](https://github-readme-stats.vercel.app/api?username=otheogdai_icons=true&theme=radical)
 
 ---
 
